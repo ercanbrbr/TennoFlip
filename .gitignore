@@ -144,3 +144,5 @@ Thumbs.db
 
 # Project specific
 tests/
+
+*.db
